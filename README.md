@@ -1,1 +1,1 @@
-# My first try
+# Core Java
