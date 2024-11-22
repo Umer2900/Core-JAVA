@@ -1,4 +1,4 @@
-/* Cammand Line Argument */
+/* Command Line Argument */
 
 class ClassName
 {
@@ -13,6 +13,6 @@ class ClassName
             for (int i = 0; i < args.length; i++) {
                 System.out.println("Argument " + (i + 1) + ": " + args[i]);
             } 
-        }
+        } 
     } 
 }
